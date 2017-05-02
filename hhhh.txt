@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 maryum dsjlkdjkcsnkdshckjhfjkhfdkhdfdhkjfdhkjhdfjkhfjkhdjfhfd
+=======
+maryum dsjlkdjk
+>>>>>>> master
+
+uzair djsjd
